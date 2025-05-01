@@ -76,7 +76,7 @@ body {
   overflow: hidden;
   margin: 4rem auto;
   background-color: var(--clr-white);
-  /*border-radius: 1.55rem;*/
+  border-radius: 1.55rem;
   box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.1);
 }
 
